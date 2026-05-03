@@ -30,5 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0012-integer-to-roman) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0442-find-all-duplicates-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
