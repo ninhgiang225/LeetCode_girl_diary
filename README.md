@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0016-3sum-closest) |
 | [0238-product-of-array-except-self](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0238-product-of-array-except-self) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0016-3sum-closest) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Database
 |  |
 | ------- |
@@ -25,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0238-product-of-array-except-self) |
+## Hash Table
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->
