@@ -16,14 +16,11 @@ class Solution:
             print(num, count_zeros)
             if num <= 3: 
                 output += hashmap[count_zeros]*num
-            elif num == 4: 
-                output += hashmap[count_zeros]
-                output += hashmap[count_zeros*5]
             elif num >= 5 and num < 9: 
                 output += hashmap[count_zeros*5]
                 output += hashmap[count_zeros]*(num-5)
-            else:   #i = 9 
+            else:   #i = 9 or 4
                 output += hashmap[count_zeros]
-                output += hashmap[count_zeros*10]
+                output += hashmap[count_zeros*(num+1)]
         
         return output
