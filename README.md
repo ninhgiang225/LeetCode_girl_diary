@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1454-active-users](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/1454-active-users) |
 | [2922-market-analysis-iii](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/2922-market-analysis-iii) |
+| [3328-find-cities-in-each-state-ii](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/3328-find-cities-in-each-state-ii) |
 ## Prefix Sum
 |  |
 | ------- |
