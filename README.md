@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1149-article-views-ii](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/1149-article-views-ii) |
+| [1212-team-scores-in-football-tournament](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/1212-team-scores-in-football-tournament) |
 | [1454-active-users](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/1454-active-users) |
 | [1811-find-interview-candidates](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/1811-find-interview-candidates) |
 | [2388-change-null-values-in-a-table-to-the-previous-value](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/2388-change-null-values-in-a-table-to-the-previous-value) |
