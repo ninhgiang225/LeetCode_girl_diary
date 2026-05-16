@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0016-3sum-closest) |
+| [0048-rotate-image](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0048-rotate-image) |
 | [0238-product-of-array-except-self](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
@@ -42,9 +43,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0048-rotate-image) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0038-count-and-say) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
