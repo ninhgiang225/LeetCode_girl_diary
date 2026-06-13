@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0016-3sum-closest) |
 | [0048-rotate-image](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0056-merge-intervals) |
 | [0238-product-of-array-except-self](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0056-merge-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Database
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0049-group-anagrams) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Math
 |  |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0049-group-anagrams) |
 ## Matrix
 |  |
 | ------- |
