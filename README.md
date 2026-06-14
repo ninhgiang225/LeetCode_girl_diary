@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0064-minimum-path-sum) |
 | [0238-product-of-array-except-self](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
@@ -62,8 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0064-minimum-path-sum) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
