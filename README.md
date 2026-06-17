@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0064-minimum-path-sum) |
 | [0238-product-of-array-except-self](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0238-product-of-array-except-self) |
+| [0346-moving-average-from-data-stream](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0346-moving-average-from-data-stream) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
 |  |
@@ -73,4 +74,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0064-minimum-path-sum) |
+## Design
+|  |
+| ------- |
+| [0346-moving-average-from-data-stream](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0346-moving-average-from-data-stream) |
+## Queue
+|  |
+| ------- |
+| [0346-moving-average-from-data-stream](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0346-moving-average-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0346-moving-average-from-data-stream](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0346-moving-average-from-data-stream) |
 <!---LeetCode Topics End-->
