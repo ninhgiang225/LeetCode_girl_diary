@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0073-set-matrix-zeroes) |
 | [0238-product-of-array-except-self](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0239-sliding-window-maximum) |
 | [0346-moving-average-from-data-stream](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0346-moving-average-from-data-stream) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0073-set-matrix-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Math
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0073-set-matrix-zeroes) |
 ## Stack
 |  |
 | ------- |
