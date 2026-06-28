@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1149-article-views-ii](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/1149-article-views-ii) |
 | [1212-team-scores-in-football-tournament](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/1212-team-scores-in-football-tournament) |
 | [1241-number-of-comments-per-post](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/1241-number-of-comments-per-post) |
+| [1321-restaurant-growth](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/1321-restaurant-growth) |
 | [1454-active-users](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/1454-active-users) |
 | [1811-find-interview-candidates](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/1811-find-interview-candidates) |
 | [1988-find-cutoff-score-for-each-school](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/1988-find-cutoff-score-for-each-school) |
