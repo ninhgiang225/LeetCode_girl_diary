@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0534-game-play-analysis-iii](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0534-game-play-analysis-iii) |
+| [0569-median-employee-salary](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0569-median-employee-salary) |
 | [1098-unpopular-books](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/1098-unpopular-books) |
 | [1149-article-views-ii](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/1149-article-views-ii) |
 | [1212-team-scores-in-football-tournament](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/1212-team-scores-in-football-tournament) |
