@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1811-find-interview-candidates](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/1811-find-interview-candidates) |
 | [1934-confirmation-rate](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/1934-confirmation-rate) |
 | [1988-find-cutoff-score-for-each-school](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/1988-find-cutoff-score-for-each-school) |
+| [2041-accepted-candidates-from-the-interviews](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/2041-accepted-candidates-from-the-interviews) |
 | [2388-change-null-values-in-a-table-to-the-previous-value](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/2388-change-null-values-in-a-table-to-the-previous-value) |
 | [2922-market-analysis-iii](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/2922-market-analysis-iii) |
 | [3308-find-top-performing-driver](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/3308-find-top-performing-driver) |
