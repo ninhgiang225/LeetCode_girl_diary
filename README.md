@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0569-median-employee-salary](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/0569-median-employee-salary) |
 | [1098-unpopular-books](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/1098-unpopular-books) |
 | [1149-article-views-ii](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/1149-article-views-ii) |
+| [1164-product-price-at-a-given-date](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/1164-product-price-at-a-given-date) |
 | [1212-team-scores-in-football-tournament](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/1212-team-scores-in-football-tournament) |
 | [1241-number-of-comments-per-post](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/1241-number-of-comments-per-post) |
 | [1321-restaurant-growth](https://github.com/ninhgiang225/LeetCode_girl_diary/tree/master/1321-restaurant-growth) |
